@@ -52,6 +52,10 @@ Key features within the AI Summary tab include:
 * Allowing an API key to be entered
 * Summarizing metrics and highlighting key findings
 
+## Video Demo
+
+https://github.com/user-attachments/assets/bb6d4aff-7d4a-484f-a601-8a961a0d3aab
+
 ## Repository Structure
 
 This repository contains the following structure:
